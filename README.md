@@ -13,7 +13,7 @@ Passionate about learn and help lives through programming.
 
 
 - 🔭 I’m currently working as Software Engineer on [Kazap Tecnologia](https://kazap.com.br)
-- 🌱 I’m currently learning about all Javascript Universe
+- 🌱 I’m currently learning about the Javascript Universe
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-s-braga/)
 
 ![Samuelcrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcrx&show_icons=true&count_private=true&theme=dark)
