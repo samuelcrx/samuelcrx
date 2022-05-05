@@ -1,6 +1,5 @@
 ### Samuel Silva ☘️
 
-![Samuelcrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcrx&show_icons=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFsc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Enthusiast of the best web & mobile development technologies.
