@@ -1,7 +1,5 @@
 ### Samuel Silva ☘️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFsc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 Enthusiast of the best web & mobile development technologies.
 
 Passionate about learn and help lives through programming.
